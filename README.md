@@ -9,8 +9,9 @@ Graduating in July 2023
 
 ## Skills 💻
 
-- Web Dev: HTML, CSS, React JS, Vue JS, Node JS, Flask,
-- Databases: MySQL, PostgreSQL
+- Web Dev: HTML, CSS, React JS, Vue JS, Node JS, Express JS, Flask
+- Testing: Jest, Pytest, Postman, React testing library
+- Databases: MySQL, PostgreSQL, SQLite
 - Git
 - Linux
 - Pandas
@@ -18,6 +19,8 @@ Graduating in July 2023
 - Firestore
 - Networking
 - Unity2D
+- Agile development
+- Scrum certification
 
 ## Major Projects 🔧
 
