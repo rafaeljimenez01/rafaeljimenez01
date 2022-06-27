@@ -13,6 +13,8 @@ Graduating in July 2023
 - Testing: Jest, Pytest, Postman, React testing library
 - Databases: MySQL, PostgreSQL, SQLite
 - Git
+- Github Actions
+- Docker
 - Linux
 - Pandas
 - Bash
