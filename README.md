@@ -3,7 +3,7 @@
 ## Education 👨‍🏫
 
 Instituto Tecnológico y de Estudios Superiores de Monterrey        
-Bachelor of Science in Computer Science  
+BS Computer Science  
 Graduating in July 2023
 
 
@@ -23,6 +23,7 @@ Graduating in July 2023
 - Unity2D
 - Agile development
 - Scrum certification
+- Data Analysis: R and python(pandas, scikit)
 
 ## Major Projects 🔧
 
