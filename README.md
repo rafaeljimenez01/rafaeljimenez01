@@ -1,12 +1,3 @@
-# Welcome 👋
-
-## Education 👨‍🏫
-
-Instituto Tecnológico y de Estudios Superiores de Monterrey        
-BS Computer Science  
-Graduating in July 2023
-
-
 ## Skills 💻
 
 - Web Dev: HTML, CSS, React JS, Vue JS, Node JS, Express JS, Flask
